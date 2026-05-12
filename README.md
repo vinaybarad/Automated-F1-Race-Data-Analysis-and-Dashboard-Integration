@@ -21,18 +21,20 @@ The project involved extracting Formula 1 race data from public APIs and integra
 ->Developed interactive dashboards and reports using Power BI Desktop
 
 **Visualized:**
-  ->Driver standings and rankings
-  ->Constructor performance analysis
-  ->Race results and lap statistics
-  ->Fastest laps and qualifying insights
-  ->Seasonal trends and performance comparisons
-  ->Track-wise and team-wise analytics
+
+->Driver standings and rankings
+->Constructor performance analysis
+->Race results and lap statistics
+->Fastest laps and qualifying insights
+->Seasonal trends and performance comparisons
+->Track-wise and team-wise analytics
 ->Published reports and dashboards to Power BI Service for cloud accessibility and sharing
 ->Configured automated scheduled refreshes for real-time data updates
 ->Implemented monitoring and workflow automation for reliable dashboard operations
 ->Enabled automated notifications using Power Automate for pipeline or refresh failures
 
 **Key Features :**
+
 ->Automated Data Extraction & Refresh
 
 ->Interactive F1 Analytics Dashboards
