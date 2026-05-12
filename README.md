@@ -20,7 +20,7 @@ The project involved extracting Formula 1 race data from public APIs and integra
 
 ->Developed interactive dashboards and reports using Power BI Desktop
 
-**->Visualized:**
+**Visualized:**
   ->Driver standings and rankings
   ->Constructor performance analysis
   ->Race results and lap statistics
@@ -73,7 +73,7 @@ The project involved extracting Formula 1 race data from public APIs and integra
 
 **Skills Demonstrated :**
 
-Power BI Dashboard Development, Data Analytics, Data Visualization, Power Query, DAX, ETL Pipelines, API Integration, Power Automate, Business Intelligence, Cloud Analytics Reporting Automation
+Power BI Dashboard Development, Data Analytics, Data Visualization, Power Query, DAX, ETL Pipelines, API Integration, Power Automate, Business Intelligence, Cloud Analytics Reporting Automation.
 
 **Project Objective :**
 
